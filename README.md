@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🐞 I’m a bug maker.
-- 🤔 Golang is the best language in the world.
+- 🤔 C/Go/C++/ASM/PHP/Java/Python是世界上最好的语言。
 - 😄 人生苦短，我用python。
 <!--
 **nonu11/nonu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
