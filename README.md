@@ -2,6 +2,7 @@
 - 🐞 I’m bug maker.
 - 🤔 C/Go/C++/ASM/PHP/Java/Python/JavaScript是世界上最好的语言。
 - 😄 人生苦短，我用python。
+- 🌱 觉醒吧，AI ...
 <!--
 **nonu11/nonu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
